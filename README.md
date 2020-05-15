@@ -1,4 +1,4 @@
-It provides a simple iOS interface to execute flight travel related tasks like getting flight status (by flight number, flight route and arrival airport), flight schedules and finding nearest airports. This project uses API provided by Lufthansa.Below are the images from the IOS Application:
+It provides a simple iOS interface to execute flight travel related tasks like getting flight status (by flight number, flight route and arrival airport), flight schedules and finding nearest airports. This project uses API provided by Lufthansa.Below are some of the images from the IOS Application:
 
 ![By Flight Number](https://github.com/krishnapriya25/E-Airlines-IOS-Application/blob/master/Pictures/Picture1.jpg)
 ![By Flight Route](https://github.com/krishnapriya25/E-Airlines-IOS-Application/blob/master/Pictures/Picture2.jpg)
